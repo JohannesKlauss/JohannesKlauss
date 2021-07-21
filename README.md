@@ -1,10 +1,14 @@
 ### Hi there, I'm Johannes Klauss
 
-- 🖊️ Author of [React Hotkeys Hook](https://johannesklauss.github.io/react-hotkeys-hook/)
-- 🔭 I’m currently working on a new way to create interactive dev blogs
-- 🌱 I’m currently learning three.js and MDX
-- 📫 How to reach me: [Discord](https://discord.com/users/320280347017478144), [StackOverflow](https://stackoverflow.com/users/735226/johannes-klau%c3%9f)
-- 📖 Blog: [The Good Code](https://thegoodcode.com)
+🖊️ Author of [React Hotkeys Hook](https://johannesklauss.github.io/react-hotkeys-hook/)
+
+🔭 I’m currently working on a new way to create interactive dev blogs
+
+🌱 I’m currently learning three.js and MDX
+
+📫 How to reach me: [Discord](https://discord.com/users/320280347017478144), [StackOverflow](https://stackoverflow.com/users/735226/johannes-klau%c3%9f)
+
+📖 Blog: [The Good Code](https://thegoodcode.com)
 
 ## Get in touch
 
