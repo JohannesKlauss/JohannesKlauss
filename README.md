@@ -1,14 +1,20 @@
-### Hi there, I'm Johannes Klauss
+### Hi there, my name is Johannes Klauss, I am
 
-🖊️  Author of [React Hotkeys Hook](https://johannesklauss.github.io/react-hotkeys-hook/)
+🖊️  the author of [React Hotkeys Hook](https://johannesklauss.github.io/react-hotkeys-hook/)
 
-🔭  I’m currently working on a new way to create interactive dev blogs
+🔭  currently working on a new way to create interactive dev blogs
 
-🌱  I’m currently learning three.js and MDX
+🌱  currently learning three.js and MDX
 
-📫 How to reach me: [Discord](https://discord.com/users/320280347017478144), [StackOverflow](https://stackoverflow.com/users/735226/johannes-klau%c3%9f)
+You can find me on
 
-📖  Blog: [The Good Code](https://thegoodcode.com)
+💬 [Discord](https://discord.com/users/320280347017478144)
+
+📚 [StackOverflow](https://stackoverflow.com/users/735226/johannes-klau%c3%9f)
+
+And I am working on
+
+📖  my blog (still in early stages): [The Good Code](https://thegoodcode.com)
 
 ## Get in touch
 
