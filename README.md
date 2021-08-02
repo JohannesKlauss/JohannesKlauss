@@ -6,21 +6,21 @@
 
 🌱  currently learning three.js and MDX
 
-You can find me on
+### You can find me on
 
 💬 [Discord](https://discord.com/users/320280347017478144)
 
 📚 [StackOverflow](https://stackoverflow.com/users/735226/johannes-klau%c3%9f)
 
-And I am working on
+### And I am working on
 
 📖  my blog (still in early stages): [The Good Code](https://thegoodcode.com)
 
-## Get in touch
+### Get in touch
 
 Send me an email: klauss.johannes [at] gmail.com
 
-## Stats
+### Stats
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=johannesklauss&count_private=true&show_icons=true&include_all_commits=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johannesklauss&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
