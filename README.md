@@ -14,7 +14,7 @@
 
 ### And I am working on
 
-📖  my blog (still in early stages): [The Good Code](https://thegoodcode.com)
+📖  my blog (still in early stages): [The Good Code](https://thegoodcode.dev)
 
 ### Get in touch
 
