@@ -4,7 +4,7 @@
 
 🔭  currently working on a new way to create interactive dev blogs
 
-🌱  currently learning three.js and MDX
+🌱  currently learning developing on the internet computer
 
 ### You can find me on
 
