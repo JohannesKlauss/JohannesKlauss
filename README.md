@@ -4,7 +4,7 @@
 
 🔭  currently working on a new way to create interactive dev blogs
 
-🌱  currently learning developing on the internet computer
+🌱  currently learning rust
 
 ### You can find me on
 
@@ -14,7 +14,7 @@
 
 ### And I am working on
 
-📖  my blog (still in early stages): [The Good Code](https://thegoodcode.dev)
+📖  A workshop tool based on remix
 
 ### Get in touch
 
