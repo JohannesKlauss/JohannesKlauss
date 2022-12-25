@@ -4,17 +4,15 @@
 
 🔭  currently working on a new way to create interactive dev blogs
 
-🌱  currently learning rust
+🌱  currently learning Rust & Kotlin
 
 ### You can find me on
-
-💬 [Discord](https://discord.com/users/320280347017478144)
 
 📚 [StackOverflow](https://stackoverflow.com/users/735226/johannes-klau%c3%9f)
 
 ### And I am working on
 
-📖  A workshop tool based on remix
+📖  A workshop tool
 
 ### Get in touch
 
