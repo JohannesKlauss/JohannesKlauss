@@ -4,17 +4,9 @@
 
 🔭  currently working on a new way to create interactive dev blogs
 
-🌱  currently learning Rust & Kotlin
-
 ### You can find me on
 
 📚 [StackOverflow](https://stackoverflow.com/users/735226/johannes-klau%c3%9f)
-
-### And I am working on
-
-📖  A workshop tool
-
-### Get in touch
 
 Send me an email: klauss.johannes [at] gmail.com
 
