@@ -1,8 +1,4 @@
-### Hi there, my name is Johannes Klauss, I am
-
-🖊️  the author of [React Hotkeys Hook](https://johannesklauss.github.io/react-hotkeys-hook/)
-
-🔭  currently working on a new way to create interactive dev blogs
+### Hi there, my name is Johannes Klauss
 
 ### Stats
 
