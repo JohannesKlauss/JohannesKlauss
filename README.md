@@ -1,6 +1,6 @@
 ### Hi there, my name is Johannes Klauss
 
-I'll move most of my code to https://codeberg.org/JohnsonDetlev
+Github has become a AI slop fest, so I'll move most of my code to https://codeberg.org/JohnsonDetlev
 
 ### Stats
 
